@@ -13,7 +13,7 @@ var generatePassword = function(){
  //Below I am using the confirm method for yes or no imput.
   var passwordNumbers = confirm ("Do you want numbers in you password?")
   var capitalLetters = confirm ("Do you want capital letters in you password?")
-  var specialCharacters = confirm ("Do you want special characters i your password?")
+  var specialCharacters = confirm ("Do you want special characters in your password?")
   var nums = "0123456789"
   var letters = "abcdefghijklmnopqrstuvwxyz"
   var capital = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"

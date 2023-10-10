@@ -8,7 +8,18 @@ So here I used 1 prompt methods and 3 confirm methods. Both require a user imput
 
  Link to the deployed site: https://four-moons-tech.github.io/watermelon/
 
- Link to Github:
+ Link to Github: https://github.com/Four-Moons-Tech/watermelon
+
+ Images of deployed site: 
+
+ !
+ ![Image displaying prompt](Assets/Prompt.png)
+ ![Image displaying confirm](Assets/Confirm.png)
+ ![Start Over](Assets/Start-Over.png)
+ ![Generated password](<Assets/Generated password.png>)
+
+
+
 
 
 
