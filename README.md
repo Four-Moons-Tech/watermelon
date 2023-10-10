@@ -6,6 +6,10 @@ So here I used 1 prompt methods and 3 confirm methods. Both require a user imput
 
  In this project I declared variables; used conditions, methods, for loop.
 
+ Link to the deployed site: https://four-moons-tech.github.io/watermelon/
+
+ Link to Github:
+
 
 
 
